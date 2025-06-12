@@ -2,7 +2,7 @@
 
 ## Project info
 
-its a Blog Website
+I have created a Blog Website.A blog website is a platform for creating and publishing articles on various topics, featuring user-authentication, categories, comments, and an admin panel for managing content. It should be user-friendly and visually appealing to enhance reader engagement.
 
 ## How can I edit this code?
 
@@ -55,7 +55,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## images
+## Images
 
 
 <img width="1512" alt="Screenshot 2025-06-11 at 8 25 12 PM" src="https://github.com/user-attachments/assets/94f6a469-080a-444b-9e59-c60c9522f1f8" />
